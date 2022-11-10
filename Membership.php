@@ -27,7 +27,7 @@
          <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark" id="mainNav">
               <div class="container">
-                  <a class="navbar-brand" href="#page-top"><img src="img/Aushaan-logo.svg" alt="..." /></a><!--LOGO At the navigation bar -->
+              <a class="navbar-brand" href="LandingPage.html"><img src="img/#" style="max-height: 500px;" /></a><!--LOGO At the navigation bar -->
                   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                       Menu
                       <i class="fas fa-bars ms-1"></i>

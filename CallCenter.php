@@ -29,7 +29,7 @@
       <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark" id="mainNav">
               <div class="container">
-                  <a class="navbar-brand" href="#page-top"><img src="img/Aushaan-logo.svg" alt="..." /></a><!--LOGO At the navigation bar -->
+              <a class="navbar-brand" href="LandingPage.html"><img src="img/#" style="max-height: 500px;" /></a><!--LOGO At the navigation bar -->
                   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                       Menu
                       <i class="fas fa-bars ms-1"></i>
@@ -65,7 +65,7 @@
           <div class="col-xl-9 mx-auto">
             <h1 class="mb-5">The Hive Call Center <br>  </h1>
             <h2>Streamline all your customer communications with our outsourced Call Center Package.</h2>
-            <a><button class="btn btn-primary" type="button">Request for a Quote</button></a>
+           <a href="QuotePage.php"> <button class="btn btn-primary" type="button">Request for a Quote</button></a>
           </div>
           <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
             <form>
